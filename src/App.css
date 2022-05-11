@@ -1,0 +1,35 @@
+.app-main-div{
+  background-color: azure;
+  display: grid;
+  grid-template-columns: 40% 60%;
+  margin: 20px;
+  height: 80px;
+  width: 95%;
+}
+.head h2{
+  color: aqua;
+  font-family:cursive;
+  font-size:x-large;
+  padding: 15px;
+  
+}
+.nav ul li{
+  display: flex;
+  margin: 25px;
+  font-size: larger;
+  font: 35px;
+}
+.nav ul{
+  display: inline-flex;
+  list-style-type: none;
+  color:deeppink;
+  font-family: 'Courier New', Courier, monospace;
+}
+.app-btn{
+  height: 22px;
+  width: 90px;
+  border-radius: 20px;
+  margin: 25px;
+  background-color: aqua;
+  color:deeppink;
+}

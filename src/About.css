@@ -1,0 +1,33 @@
+.main-div{
+    background-color:#fff;
+    height: 450px;
+    width: 1200px;
+    font-family: cursive;
+    font-size: 18px;
+    padding: 05px;
+}
+.first-div{
+    display: grid;
+    grid-template-columns: 60% 40%;
+    padding-left: 10px;
+    
+}
+
+.second-div{
+    display: grid;
+    grid-template-columns: 40% 60%;
+    
+}
+.third-div{
+    display: grid;
+    grid-template-columns: 60% 40%;
+    
+}
+h3{
+    border-bottom: 2px solid grey;
+    padding-bottom: 15px;
+}
+img{
+    margin: 30px;
+}
+

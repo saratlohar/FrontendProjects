@@ -1,0 +1,31 @@
+.container{
+    display:grid;
+    grid-template-columns: auto auto auto auto ;
+    width: 290px;
+   
+  }
+  .wrap{
+    height: 280px;
+  }
+  .wrap img{
+      height: 260px;
+      width: 260px;
+      border: 2px solid #aaa;
+  }
+  footer{
+      text-align: center;
+      padding-left: 40%;
+  }
+.main-foot h2{
+      height: 50px;
+      width: 100%;
+      border: 1px solid blue;
+      background-color: blue;
+      color: beige;
+      text-align: center;
+      font-family: cursive;
+      margin-left: 30%;
+      padding-inline-end: 100%;
+      float: inherit;
+      
+  }

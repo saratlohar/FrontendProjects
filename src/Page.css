@@ -1,0 +1,40 @@
+.page-main-div{
+    background-color:mediumspringgreen;
+    font-family: cursive;
+   width: 1250px;
+   padding: 10px;
+}
+.div-1{
+    display: flex;
+}
+.div-1 ul li{
+    display: inline-flex;
+    list-style: none;
+    padding: 15px 110px;
+    border-top: 2px solid indianred ;
+    border-bottom: 2px solid indianred;
+    color: blue;
+}
+.div-2{
+    text-align: center;
+    padding: 25px;
+}
+.div-2 h2{
+    border-bottom:2px solid indianred ;
+    padding: 10px;
+    
+}
+.div-3{
+    display: flex;
+}
+.div-3 ul li{
+    display: inline-flex;
+    list-style: none;
+    padding: 15px 50px;
+    border-top: 2px solid indianred ;
+    border-bottom: 2px solid indianred;
+    color: blue;
+}
+p{
+    text-align: center;
+    padding: 25px;}
